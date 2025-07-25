@@ -53,9 +53,9 @@ You’re free to use, modify, or study this code.
 ---
 
 
-##✍️ Author
+## ✍️ Author
 
-Moulay Abdellah Idrissi
-Software Architect | Embedded Systems | DevOps | Full Stack
-🔗 linkedin.com/in/maidrissi
-📧 a.idrissi.dev@gmail.com
+**Moulay Abdellah Idrissi**  
+**Software Architect** | **Embedded Systems** | **DevOps** | **Full Stack**  
+🔗 [linkedin.com/in/maidrissi](https://linkedin.com/in/maidrissi)  
+📧 [a.idrissi.dev@gmail.com](mailto:a.idrissi.dev@gmail.com)
