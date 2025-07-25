@@ -42,6 +42,7 @@ Publishing it here — for visibility, for learning, and for fun.
 
 ```bash
 gcc -O3 -o dupdetector main.c find_duplicates.c
+```
 
 ## 📜 License
 
@@ -52,9 +53,9 @@ You’re free to use, modify, or study this code.
 ---
 
 
-✍️ Author
+##✍️ Author
 
 Moulay Abdellah Idrissi
 Software Architect | Embedded Systems | DevOps | Full Stack
-🔗 linkedin.com/in/abdellah-idrissi
+🔗 linkedin.com/in/maidrissi
 📧 a.idrissi.dev@gmail.com
