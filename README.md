@@ -36,6 +36,13 @@ Publishing it here — for visibility, for learning, and for fun.
 
 ---
 
+## ⚙️ Build & Run
+
+### Compile with GCC
+
+```bash
+gcc -O3 -o dupdetector main.c find_duplicates.c
+
 ## 📜 License
 
 [MIT License](LICENSE)
@@ -43,3 +50,11 @@ Publishing it here — for visibility, for learning, and for fun.
 You’re free to use, modify, or study this code.  
 
 ---
+
+
+✍️ Author
+
+Moulay Abdellah Idrissi
+Software Architect | Embedded Systems | DevOps | Full Stack
+🔗 linkedin.com/in/abdellah-idrissi
+📧 a.idrissi.dev@gmail.com
